@@ -1,0 +1,14 @@
+[
+ {"from_node":"main_gate","to_node":"reception","distance":18}, {"from_node":"main_gate","to_node":"lawn","distance":42},
+ {"from_node":"reception","to_node":"admin_block","distance":16}, {"from_node":"reception","to_node":"library","distance":30},
+ {"from_node":"admin_block","to_node":"corridor_a","distance":14}, {"from_node":"corridor_a","to_node":"cse_ai","distance":15},
+ {"from_node":"cse_ai","to_node":"extc_elec","distance":14}, {"from_node":"extc_elec","to_node":"civil_mech","distance":15},
+ {"from_node":"corridor_a","to_node":"library","distance":24}, {"from_node":"corridor_a","to_node":"stairs","distance":16,"cost":1.5,"accessible":false},
+ {"from_node":"corridor_a","to_node":"lift","distance":15}, {"from_node":"stairs","to_node":"first_floor_corridor","distance":15,"cost":1.5,"accessible":false},
+ {"from_node":"lift","to_node":"first_floor_corridor","distance":15}, {"from_node":"first_floor_corridor","to_node":"computer_lab","distance":12},
+ {"from_node":"first_floor_corridor","to_node":"physics_lab","distance":19}, {"from_node":"first_floor_corridor","to_node":"classroom_101","distance":18},
+ {"from_node":"corridor_a","to_node":"pond","distance":26}, {"from_node":"pond","to_node":"cycle_stand","distance":15},
+ {"from_node":"cycle_stand","to_node":"canteen","distance":40}, {"from_node":"pond","to_node":"workshop","distance":27},
+ {"from_node":"workshop","to_node":"auditorium","distance":22}, {"from_node":"canteen","to_node":"auditorium","distance":36},
+ {"from_node":"lawn","to_node":"admin_block","distance":33}, {"from_node":"library","to_node":"cycle_stand","distance":25}
+]

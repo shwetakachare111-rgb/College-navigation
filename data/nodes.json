@@ -1,0 +1,22 @@
+[
+  {"id":"main_gate","name":"Main Gate","x":12,"y":88,"z":0,"aliases":["gate","entry","main entrance"]},
+  {"id":"reception","name":"Reception","x":25,"y":76,"z":0,"aliases":["help desk"]},
+  {"id":"admin_block","name":"Main Building","x":38,"y":69,"z":0,"aliases":["admin office","administration","mca","fy","mba","admin fy mba mca"]},
+  {"id":"corridor_a","name":"Corridor A","x":48,"y":62,"z":0,"aliases":["main corridor"]},
+  {"id":"library","name":"Library & Laboratory","x":53,"y":82,"z":0,"aliases":["lib","laboratory"]},
+  {"id":"stairs","name":"First Floor Stairs","x":61,"y":59,"z":0,"aliases":["staircase","stairs"]},
+  {"id":"lift","name":"Accessible Lift","x":58,"y":58,"z":0,"aliases":["elevator","lift"]},
+  {"id":"first_floor_corridor","name":"First Floor Corridor","x":62,"y":58,"z":12,"floor":1,"aliases":["floor corridor"]},
+  {"id":"computer_lab","name":"Computer Lab","x":72,"y":55,"z":12,"floor":1,"aliases":["computer","cs lab","programming lab"]},
+  {"id":"physics_lab","name":"Physics Lab","x":75,"y":45,"z":12,"floor":1,"aliases":["physics"]},
+  {"id":"classroom_101","name":"Classroom 101","x":62,"y":42,"z":12,"floor":1,"aliases":["room 101","class 101"]},
+  {"id":"cse_ai","name":"CSE & AIDS Building","x":38,"y":52,"z":0,"aliases":["cse","aids","ai building","cse and ai"]},
+  {"id":"extc_elec","name":"EXTC & ELEC Building","x":38,"y":42,"z":0,"aliases":["electrical","electronics","extc"]},
+  {"id":"civil_mech","name":"Civil & Mech Building","x":38,"y":31,"z":0,"aliases":["civil","mechanical","mech"]},
+  {"id":"workshop","name":"Workshop","x":78,"y":46,"z":0,"aliases":["work shop"]},
+  {"id":"pond","name":"Pond","x":58,"y":38,"z":0,"aliases":["lake"]},
+  {"id":"cycle_stand","name":"Parking Area","x":49,"y":30,"z":0,"aliases":["parking","cycle stand","bike stand","vehicle parking"]},
+  {"id":"canteen","name":"Canteen","x":87,"y":27,"z":0,"aliases":["cafeteria","food"]},
+  {"id":"auditorium","name":"Swami Vivekananda Auditorium","x":90,"y":63,"z":0,"aliases":["seminar hall","vivekananda auditorium","hall"]},
+  {"id":"lawn","name":"Lawn","x":19,"y":48,"z":0,"aliases":["garden","park"]}
+]
